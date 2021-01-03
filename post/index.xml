@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Emanuel Solis</title>
-    <link>https://example.com/post/</link>
+    <link>https://emanuel-sol.github.io/Emanuel-Solis-Portfolio/post/</link>
     <description>Recent content in Projects on Emanuel Solis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://emanuel-sol.github.io/Emanuel-Solis-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Motion Prediction of Traffic Actors with Multi-mode Confidence</title>
-      <link>https://example.com/post/project-1/</link>
+      <link>https://emanuel-sol.github.io/Emanuel-Solis-Portfolio/post/project-1/</link>
       <pubDate>Tue, 01 Dec 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/project-1/</guid>
+      <guid>https://emanuel-sol.github.io/Emanuel-Solis-Portfolio/post/project-1/</guid>
       <description>In this project I utilized Lyft&amp;rsquo;s open source framework for developing learning-based solutions to prediction, planning and simulation problems in self-driving to create bird&amp;rsquo;s-eye view rasters of a traffic agent&amp;rsquo;s (car, cyclist, pedestrian, etc) surroundings from Lyft&amp;rsquo;s self-driving car dataset. I then modified a pre-trained Resnet-50 neural network to accept the raster images as input and performed transfer learning on the neural network in order to generate 3 hypothesis of the future point estimates a traffic actor in the next 50 timesteps (0.</description>
     </item>
     
     <item>
       <title>Action Recognition Using Motion History Images</title>
-      <link>https://example.com/post/project-6/</link>
+      <link>https://emanuel-sol.github.io/Emanuel-Solis-Portfolio/post/project-6/</link>
       <pubDate>Mon, 30 Nov 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/project-6/</guid>
+      <guid>https://emanuel-sol.github.io/Emanuel-Solis-Portfolio/post/project-6/</guid>
       <description>I remember when I first used an Xbox Kinect and I thought it was so cool how the camera could tell what sort of actions I was doing. Fast forward almost a decade and now I know it wasn&amp;rsquo;t magic, but instead very clever computer vision algorithms! In this project I implemented an action recognition method using Motion History Images. Given a video sequence, the goal is to predict which of a set of actions the subject is performing.</description>
     </item>
     
     <item>
       <title>Video Search Using Feature Matching</title>
-      <link>https://example.com/post/project-5/</link>
+      <link>https://emanuel-sol.github.io/Emanuel-Solis-Portfolio/post/project-5/</link>
       <pubDate>Fri, 20 Nov 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/project-5/</guid>
+      <guid>https://emanuel-sol.github.io/Emanuel-Solis-Portfolio/post/project-5/</guid>
       <description>SIFT, or Scale Invariant Feature Transform, is a feature detection algorithm that locates the local features in an image. This is a very important algorithm in computer vision because it allows us to detect objects at different scales and orientations as well as in different lighting conditions. Given the SIFT features of a set of images, I use feature matching to detect the same objects in different frames as well as detect similar video frames.</description>
     </item>
     
     <item>
       <title>Image Stitcher</title>
-      <link>https://example.com/post/project-4/</link>
+      <link>https://emanuel-sol.github.io/Emanuel-Solis-Portfolio/post/project-4/</link>
       <pubDate>Sat, 07 Nov 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/project-4/</guid>
+      <guid>https://emanuel-sol.github.io/Emanuel-Solis-Portfolio/post/project-4/</guid>
       <description>Ever wonder how your phone creates panoramic images? Allow me to introduce you to image mosaicing (aka image stitching)! Similar images are warped and stitched together by computing their homography matrix which allows us to translate the pixels of one image into the image plane of another. In this project, I created a simple script to create corresponding pairs of points in two similar images. Then I used these corresponding point pairs to estimate an image&amp;rsquo;s homography matrix to perform the image mosaicing.</description>
     </item>
     
     <item>
       <title>Color Quantization Using KMeans Clustering</title>
-      <link>https://example.com/post/project-3/</link>
+      <link>https://emanuel-sol.github.io/Emanuel-Solis-Portfolio/post/project-3/</link>
       <pubDate>Wed, 21 Oct 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/project-3/</guid>
+      <guid>https://emanuel-sol.github.io/Emanuel-Solis-Portfolio/post/project-3/</guid>
       <description>Imagine you took a beautiful image of the sunset one day. Your device captures 10,000 different colors, but you want to send your picture to a friend whose device can only display 256 colors due to memory constraints. How can we compress the image so that it can be displayed on all devices? That&amp;rsquo;s where color quantization comes in! Color quantization is the process of reducing the color space of an image while maintaining the visual appearance of the original image.</description>
     </item>
     
     <item>
       <title>Content-Aware Image Resizing</title>
-      <link>https://example.com/post/project-2/</link>
+      <link>https://emanuel-sol.github.io/Emanuel-Solis-Portfolio/post/project-2/</link>
       <pubDate>Fri, 09 Oct 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/project-2/</guid>
+      <guid>https://emanuel-sol.github.io/Emanuel-Solis-Portfolio/post/project-2/</guid>
       <description>In this project I implemented the &amp;ldquo;seam removal&amp;rdquo; technique for content-aware image resizing proposed by Shai Avidan and Ariel Shamir&amp;rsquo;s 2007 paper titled &amp;ldquo;Seam carving for content-aware image resizing.&amp;rdquo; This technique allows us to resize an image without cropping or distorting its contents.
     If you&amp;rsquo;d like to view the Github repo reach out to me via the Contact page!</description>
     </item>
